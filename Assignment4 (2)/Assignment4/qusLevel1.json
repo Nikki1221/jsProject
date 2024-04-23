@@ -1,0 +1,86 @@
+{
+  "quizTitle": "Sample Quiz",
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "questionNo": 1,
+      "options": ["London", "Paris", "Berlin", "Rome"],
+      "correctAnswer": "Paris",
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "questionNo": 2,
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "correctAnswer": "Mount Everest",
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "questionNo": 3,
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+      "correctAnswer": "Leonardo da Vinci",
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+      "questionNo": 4,
+      "options": [" script src='script.js'  ", " script href='script.js'  ", " script name='script.js'  ", " script file='script.js'  "],
+      "correctAnswer": " script src='script.js'  ",
+     
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "Which function is used to print content in the console?",
+      "questionNo": 5,
+      "options": ["console.log()", "print()", "log()", "display()"],
+      "correctAnswer": "console.log()",
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "What is the result of 5 + '5' in JavaScript?",
+      "questionNo": 6,
+      "options":  ["10", "55", "Error", "505"],
+      "correctAnswer": "55",
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "questionNo": 7,
+      "options": ["Atlantic Ocean", "Arctic Ocean", "Indian Ocean", "Pacific Ocean"],
+      "correctAnswer": "Pacific Ocean",
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "questionNo": 8,
+      "options": ["Mars", "Jupiter", "Venus", "Mercury"],
+      "correctAnswer": "Mars",
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "questionNo": 9,
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "correctAnswer": "H2O",
+      "completed": false,
+      "QuestionType": "level1"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "questionNo": 10,
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "correctAnswer": "Albert Einstein",
+      "completed": false,
+      "QuestionType": "level1"
+    }
+  ]
+}

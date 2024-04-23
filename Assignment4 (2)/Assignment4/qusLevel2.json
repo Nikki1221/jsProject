@@ -1,0 +1,165 @@
+{
+  "quizTitle": "JavaScript Quiz",
+  "questions": [
+    {
+      "question": "What is the result of the following expression: '2' + 2?",
+      "questionNo": 1,
+      "options": ["22", "4", "NaN", "Error"],
+      "correctAnswer": "22",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "Which built-in method returns the length of the string?",
+      "questionNo": 2,
+      "options": ["length()", "size()", "index()", "None of the above"],
+      "correctAnswer": "length()",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+      "questionNo": 3,
+      "options": [" script src='script.js'>", " script href='script.js'>", " script name='script.js'>", " script file='script.js'>"],
+      "correctAnswer": " script src='script.js'>",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "Which function is used to print content in the console?",
+      "questionNo": 4,
+      "options": ["console.log()", "print()", "log()", "display()"],
+      "correctAnswer": "console.log()",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "What is the result of 5 + '5' in JavaScript?",
+      "questionNo": 5,
+      "options": ["10", "55", "Error", "505"],
+      "correctAnswer": "55",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "What is the output of the following code: console.log(typeof 42)?",
+      "questionNo": 6,
+      "options": ["number", "string", "object", "undefined"],
+      "correctAnswer": "number",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "Which operator is used to assign a value to a variable?",
+      "questionNo": 7,
+      "options": ["+", "=", "*", "/"],
+      "correctAnswer": "=",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "What does CSS stand for?",
+      "questionNo": 8,
+      "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+      "correctAnswer": "Cascading Style Sheets",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "What is the correct HTML element for inserting a line break?",
+      "questionNo": 9,
+      "options": [" br>", " lb>", " break>", " line>"],
+      "correctAnswer": " br>",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+      "questionNo": 10,
+      "options": ["alt", "title", "src", "href"],
+      "correctAnswer": "alt",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "Inside which HTML element do we put the JavaScript?",
+      "questionNo": 11,
+      "options": [" script>", " javascript>", " js>", " scripting>"],
+      "correctAnswer": " script>",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+      "questionNo": 12,
+      "options": [" script src='script.js'>", " script href='script.js'>", " script name='script.js'>", " script file='script.js'>"],
+      "correctAnswer": " script src='script.js'>",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "How do you create a function in JavaScript?",
+      "questionNo": 13,
+      "options": ["function:myFunction()", "function myFunction()", "myFunction:function()", "myFunction()"],
+      "correctAnswer": "function myFunction()",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "How do you write 'Hello World' in an alert box?",
+      "questionNo": 14,
+      "options": ["msgBox('Hello World');", "alertBox('Hello World');", "msg('Hello World');", "alert('Hello World');"],
+      "correctAnswer": "alert('Hello World');",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "How do you comment in JavaScript?",
+      "questionNo": 15,
+      "options": [" !--This is a comment-->", "//This is a comment", "/*This is a comment*/", "'This is a comment"],
+      "correctAnswer": "//This is a comment",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "What is the correct way to write a JavaScript array?",
+      "questionNo": 16,
+      "options": ["var colors = 'red', 'green', 'blue';", "var colors = ['red', 'green', 'blue'];", "var colors = (1:'red', 2:'green', 3:'blue');", "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue');"],
+      "correctAnswer": "var colors = ['red', 'green', 'blue'];",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "How do you round the number 7.25, to the nearest integer?",
+      "questionNo": 17,
+      "options": ["Math.rnd(7.25)", "round(7.25)", "Math.round(7.25)", "rnd(7.25)"],
+      "correctAnswer": "Math.round(7.25)",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "How do you find the number with the highest value of x and y?",
+      "questionNo": 18,
+      "options": ["Math.max(x, y)", "ceil(x, y)", "Math.ceil(x, y)", "top(x, y)"],
+      "correctAnswer": "Math.max(x, y)",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "What is the correct JavaScript syntax for opening a new window called 'myWindow'?",
+      "questionNo": 19,
+      "options": ["myWindow = window.new('http://www.example.com');", "myWindow = window.open('http://www.example.com');", "myWindow = window.create('http://www.example.com');", "myWindow = window.load('http://www.example.com');"],
+      "correctAnswer": "myWindow = window.open('http://www.example.com');",
+      "completed": false,
+      "QuestionType": "level2"
+    },
+    {
+      "question": "JavaScript is the same as Java.",
+      "questionNo": 20,
+      "options": ["True", "False"],
+      "correctAnswer": "False",
+      "completed": false,
+      "QuestionType": "level2"
+    }
+  ]
+}
